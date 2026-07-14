@@ -70,7 +70,7 @@ investai/
 ## 🚀 Cómo correr el Backend
 
 1. Abrir `notebooks/InvestAI_API_FastAPI_Colab_ngrok_v2.ipynb` en Google Colab
-2. Ejecutar **todas las celdas en orden**
+2. Ejecutar **todas las celdas en orden** (ingrese la IP de cada Colab en la Whitelist de la MongoDB para permitir la conexion)
 3. Copiar la URL pública que aparece:
    ```
    🌐 API pública disponible en: https://xxxx.ngrok-free.app
